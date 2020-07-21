@@ -1,0 +1,137 @@
+    
+    
+       img{
+        width: 105%;
+        height: 632px;
+    }
+    
+    
+    
+    .up{
+        width: 100%;
+        background-color: black;
+        position: fixed;
+        top: 0px;
+        height: 60px;
+        left: 0px;
+        z-index: 100;
+        box-shadow: 0 0 1px 1px ;
+        margin: 0px;
+        border-radius: 5px;
+        font-weight: bold;
+        font-family: cursive;
+        box-shadow: 0 0 4px 4px;
+
+        
+    }    
+    
+    .link li{
+        color: red;
+        display: inline;
+        padding: 15px;
+        border: 1px solid black;
+        border-radius: 40px;
+        box-shadow: 2px 1px 1px 2px;
+    }
+    
+   
+    
+     a{
+        text-decoration: none;
+    }
+   
+    
+    
+    
+    
+    #bt1{
+        
+        background-color: gray;
+    }
+    #bt2{
+        background-color: gray;
+    }
+    #bt3{
+        background-color: gray;
+    }
+    
+    #bt4{
+        background-color: gray;
+    }
+    
+    
+    .h{
+        width: 100%;
+        height: 110px;
+        color: #7b7070;
+        text-align:left;
+        position: absolute;
+        top:50px;
+        left: 10px;
+        margin: 0px;
+    }
+    
+    P{
+        font-size: 25px;
+        font-family: fantasy;
+    }
+    
+    
+       
+    
+    
+    .h2{
+        width: 100%;
+        height: 300px;
+        color: #223;
+        text-align: left;
+        position: absolute;
+        top: 100px;
+        left:10px;
+        margin: 0px;
+    }
+    
+    h{
+        font-size: 80px;
+        font-weight: bolder;
+        font-family: cursive;
+    }
+    
+    
+    .btn{
+        width: 100%;
+        height: 270px;
+        text-align:right ;
+        position: absolute;
+        top:100px;
+        right: 70px;
+        
+    }
+    
+    .btn1{
+        border: 1px solid black;
+        font-size: 20px;
+        font-family: "montserrat";
+        cursor: pointer;
+        border-radius: 70px;
+        background: #c3d1d6;
+        box-shadow: 0 0 1px 1px;
+    }
+    
+    a:visited{
+        color: black;
+    }
+    a:active{
+       color: darkblue;
+    }
+   
+   
+     #i{
+        width: 120px; 
+        height: 120px;
+        position:relative;
+        left: 750px;
+         top: 100px;
+    } 
+    
+    
